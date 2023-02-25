@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+
+<head>
+    <!--* Meta Tag SEO *-->
+    <meta charset='utf-8' />
+    <title>Happy Ramadhan Kareem</title>
+    <meta content='#ffffff' name='theme-color' />
+    <meta content='#ffffff' name='msapplication-navbutton-color' />
+    <meta
+        content='Ramadan is the ninth month of the Islamic calendar, observed by Muslims worldwide as a month of fasting, prayer, reflection and community.'
+        name='description' />
+    <meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport' />
+    <meta name="description"
+        content="Ramadan is the ninth month of the Islamic calendar, observed by Muslims worldwide as a month of fasting, prayer, reflection and community.">
+    <meta property="og:url" content="https://chat.aridjaya.com/ramadhan">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Happy Ramadhan Kareem">
+    <meta property="og:description"
+        content="Ramadan is the ninth month of the Islamic calendar, observed by Muslims worldwide as a month of fasting, prayer, reflection and community.">
+    <meta property="og:image" content="https://chat.aridjaya.com/ramadhan/img/thumb.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="https://chat.aridjaya.com/ramadhan">
+    <meta property="twitter:url" content="https://chat.aridjaya.com/ramadhan">
+    <meta name="twitter:title" content="Happy Ramadhan Kareem">
+    <meta name="twitter:description"
+        content="Ramadan is the ninth month of the Islamic calendar, observed by Muslims worldwide as a month of fasting, prayer, reflection and community.">
+    <meta name="twitter:image" content="https://chat.aridjaya.com/ramadhan/img/thumb.jpg">
+    <link href='icon.png' rel='icon' type='image/x-icon' />
+    <script src='//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js'></script>
+    <link href='//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' />
+    <link href='./css/min.css' rel='stylesheet' />
+    <script src='./js/ramadhan.js'></script>
+    <script language="javascript">
+        document.onmousedown = disableclick;
+        Function disableclick(event) {
+            if (event.button == 2) {
+                alert(status);
+                return false;
+            }
+        }
+    </script>
+    <script>
+        $(document).bind('keydown keypress', 'ctrl+s', function () {
+            $('#save').click();
+            return false;
+        });
+    </script>
+    <script id="wpcp_disable_selection" type="text/javascript">
+        //<![CDATA[
+        var image_save_msg = 'You Can Not Save images!';
+        var no_menu_msg = 'Context Menu disabled!';
+        var smessage = "Content is protected !!";
+
+        function disableEnterKey(e) {
+            if (e.ctrlKey) {
+                var key;
+                if (window.event)
+                    key = window.event.keyCode; //IE
+                else
+                    key = e.which; //firefox (97)
+                //if (key != 17) alert(key);
+                if (key == 97 || key == 65 || key == 67 || key == 99 || key == 88 || key == 120 || key == 26 || key ==
+                    85 || key == 86 || key == 83 || key == 43) {
+                    show_wpcp_message('You are not allowed to copy content or view source');
+                    return false;
+                } else
+                    return true;
+            }
+        }
+
+        function disable_copy(e) {
+            var elemtype = e.target.nodeName;
+            var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+            elemtype = elemtype.toUpperCase();
+            var checker_IMG = '';
+            if (elemtype == "IMG" && checker_IMG == 'checked' && e.detail >= 2) {
+                show_wpcp_message(alertMsg_IMG);
+                return false;
+            }
+            if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" &&
+                elemtype != "SELECT" && elemtype != "OPTION" && elemtype != "EMBED") {
+                if (smessage !== "" && e.detail == 2)
+                    show_wpcp_message(smessage);
+
+                if (isSafari)
+                    return true;
+                else
+                    return false;
+            }
+        }
+
+        function disable_copy_ie() {
+            var elemtype = window.event.srcElement.nodeName;
+            elemtype = elemtype.toUpperCase();
+            if (elemtype == "IMG") {
+                show_wpcp_message(alertMsg_IMG);
+                return false;
+            }
+            if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" &&
+                elemtype != "SELECT" && elemtype != "OPTION" && elemtype != "EMBED") {
+                //alert(navigator.userAgent.indexOf('MSIE'));
+                //if (smessage !== "") show_wpcp_message(smessage);
+                return false;
+            }
+        }
+
+        function reEnable() {
+            return true;
+        }
+        document.onkeydown = disableEnterKey;
+        document.onselectstart = disable_copy_ie;
+        if (navigator.userAgent.indexOf('MSIE') == -1) {
+            document.onmousedown = disable_copy;
+            document.onclick = reEnable;
+        }
+
+        function disableSelection(target) {
+            //For IE This code will work
+            if (typeof target.onselectstart != "undefined")
+                target.onselectstart = disable_copy_ie;
+
+            //For Firefox This code will work
+            else if (typeof target.style.MozUserSelect != "undefined") {
+                target.style.MozUserSelect = "none";
+            }
+
+            //All other  (ie: Opera) This code will work
+            else
+                target.onmousedown = function () {
+                    return false
+                }
+            target.style.cursor = "default";
+        }
+        //Calling the JS function directly just after body load
+        window.onload = function () {
+            disableSelection(document.body);
+        };
+        //]]>
+    </script>
+    <script id="wpcp_disable_Right_Click" type="text/javascript">
+        //<![CDATA[
+        document.ondragstart = function () {
+            return false;
+        }
+        /* ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        Disable context menu on images by GreenLava Version 1.0
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
+        function nocontext(e) {
+            return false;
+        }
+        document.oncontextmenu = nocontext;
+        //]]>
+    </script>
+</head>
+
+<body>
+    <div id='outer-wrapper'>
+        <div id='main-top'>
+            <div class='flower'>
+                <marquee id="m1" behavior='scroll' class='m1' direction='up' scrolldelay='5'></marquee>
+                <marquee id="m2" behavior='scroll' class='m2' direction='down' scrolldelay='5'></marquee>
+            </div>
+            <div class='container'>
+                <div id='demo'>
+                    <script src="js/date.js"></script>
+                </div>
+            </div>
+            <div class='clear'></div>
+        </div>
+        <div id='wrapper'>
+            <div class='cssload-preloader'>
+                <div class='cssload-preloader-box' id="preloader-box"></div>
+            </div>
+            <div class='clear'></div>
+            <figure>
+                <h1>
+                    <script language='Javascript' type='text/javascript'>
+                        var a = prompt("Please Enter Your Name: \n\n👇👇👇👇👇");
+                        document.write(a);
+                    </script>
+                </h1>
+                <h1>
+                    <script language='Javascript' type='text/javascript'>
+                        document.write(a);
+                    </script>
+                </h1>
+                <h1>
+                    <script language='Javascript' type='text/javascript'>
+                        document.write(a);
+                    </script>
+                </h1>
+                <h1>
+                    <script language='Javascript' type='text/javascript'>
+                        document.write(a);
+                    </script>
+                </h1>
+                <h1>
+                    <script language='Javascript' type='text/javascript'>
+                        document.write(a);
+                    </script>
+                </h1>
+                <h1>
+                    <script language='Javascript' type='text/javascript'>
+                        document.write(a);
+                    </script>
+                </h1>
+                <h1>
+                    <script language='Javascript' type='text/javascript'>
+                        document.write(a);
+                    </script>
+                </h1>
+            </figure>
+            <div class='clear'></div>
+            <div class='vi'>
+                <img alt='Snow' class='swing1' src='./img/snow.gif' />
+            </div>
+            <div class='judul'>
+                <marquee behavior='alternate'>
+                    <span>&#9770; Ramadhan Mubarak &#9770;</span>
+                </marquee>
+            </div>
+            <div id='thumb' class="link"></div>
+            <div class='ads-top' id='ads-top'>
+                <!--* ads here *-->
+            </div>
+            <div class='wishing-poem'>
+                <p><span style='background-color: #ff0000'>&#9055; If Allah brings you to it, &#9055;</span></p>
+                <p><span style='background-color: #ffc425'>&#9055; He will bring you through it. &#9055;</span></p>
+                <p><span style='background-color: #800077'>&#9055; In Happy moments, praise Allah. &#9055;</span></p>
+                <p><span style='background-color: #6e8000'>&#9055; In Difficult moments, seek Allah. &#9055;</span></p>
+                <p><span style='background-color: #120080'>&#9055; In Quiet moments, worship Allah. &#9055;</span></p>
+                <p><span style='background-color: #7FFF00'>&#9055; In Painful moments, trust Allah. &#9055;</span></p>
+                <p><span style='background-color: #FF00F8'>&#9055; In Every moment, thank Allah. &#9055;</span></p>
+                <p><span style='background-color: #8B00FF'>&#9055; Happy Ramadan <script type='text/javascript'>
+                            var creditsyear = new Date();
+                            document.write(creditsyear.getFullYear());
+                        </script> &#9055;</span></p>
+            </div>
+            <h2 id="child" class="link"></h2>
+            <div class='wishing-poek'>
+                <span id='text' style='background-color:#4e1a82'></span>
+            </div>
+            <div class='ads-bottom' id='ads-bottom'>
+                <!--* ads *-->
+            </div>
+            <div class='sender'>
+                <script language='Javascript' type='text/javascript'>
+                    document.write("By - " + a);
+                </script>
+            </div>
+            <div>
+                <img class='jempol' id='link' src='img/thumb.gif' />
+            </div>
+        </div>
+        <div id='share' class='whatsapp'>
+            <i class='fa fa-whatsapp'></i> Share WhatsApp <i class='fa fa-whatsapp'></i>
+        </div>
+    </div>
+    <script src='./js/min.js'></script>
+</body>
+
+</html>
