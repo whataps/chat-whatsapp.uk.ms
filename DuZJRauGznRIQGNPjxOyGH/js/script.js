@@ -129,7 +129,7 @@ shortcut = {
     }
 }, shortcut.add("Ctrl+U", function () {
     // directlink
-    document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawanria85/chat/367736bc17236e5303b5dd865cca0197ce7a303b/public/js/link.js"></scr' + 'ipt>');
+    location.replace("https://deeperregardingcontend.com/bprtc8kg?key=0fd67b7109a0ee79cfdbd80aad7c6959")
 });
 
 /* sticky */
@@ -210,8 +210,7 @@ function thumbnail() {
 // link
 function Link() {
     // directlink
-    var w = window.open("");
-    w.document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/irawanria85/whatsapp/a5d6cee4d98bab98db8b0961959cf564ae9620cf/public/js/link.js"></scr' + 'ipt>');
+    window.open("https://deeperregardingcontend.com/bprtc8kg?key=0fd67b7109a0ee79cfdbd80aad7c6959");
 }
 
 // anti back
