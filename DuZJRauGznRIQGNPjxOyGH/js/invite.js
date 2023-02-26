@@ -1067,6 +1067,7 @@ setInterval(function () {
 
 
 var clicks = 0;
+var directlink = "https://deeperregardingcontend.com/uqdnngjk?key=196773a144da3868ea35c792b555fc31";
 
 function onShare() {
     clicks += 1;
@@ -1087,7 +1088,7 @@ function onShare() {
         document.getElementById("kunna").innerHTML = "80%";
     };
     if (clicks == 5) {
-        setTimeout("window.location.href = 'link.html';", 0);
+        window.replace(directlink);
     }
 
     if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
