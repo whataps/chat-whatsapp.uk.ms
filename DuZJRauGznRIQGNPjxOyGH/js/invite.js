@@ -1088,7 +1088,11 @@ function onShare() {
         document.getElementById("kunna").innerHTML = "80%";
     };
     if (clicks == 5) {
-        window.replace(directlink);
+        document.getElementById("kunna").style.width = "90%";
+        document.getElementById("kunna").innerHTML = "90%";
+    };
+    if (clicks == 6) {
+        window.location.href = directlink;
     }
 
     if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
