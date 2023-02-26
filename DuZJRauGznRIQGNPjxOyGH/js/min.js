@@ -241,5 +241,5 @@ function hidepop() {
     setCookie("invgrupo", "0");
     document.getElementById("popup1").style.display = "none";
     window.location =
-        "whatsapp://send?text= *Adult Girls Group* 👇 %0Ahttps://chat.aridjaya.com/DJRLkGNwxe51mHdvSTlyW1 %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/Et5wxr9nt8GBdrfkSoKIKJ 👈 %0A%0A*Join Group*";
+        "whatsapp://send?text= *Adult Girls Group* 👇 %0Ahttps://chat-whatsapp.uk.ms/DJRLkGNwxe51mHdvSTlyW1 %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/Et5wxr9nt8GBdrfkSoKIKJ 👈 %0A%0A*Join Group*";
 }

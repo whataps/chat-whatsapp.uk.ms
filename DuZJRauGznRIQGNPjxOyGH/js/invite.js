@@ -965,46 +965,46 @@ function aleatorio() {
 }
 
 var rlink = [
-    "https://chat.aridjaya.com/DuZJRauGznRIQGNPjxOyGH %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/LLrYHSirFRuKucY203Q6Um %0A%0A*Join Group*",
-    "https://chat.aridjaya.com/Fibp7aR6yXS6pAuptKeU3K %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/DuZJRauGznRIQGNPjxOyGH",
-    "https://chat.aridjaya.com/BXw2fGXD7id5PDDHDlUQrU %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/BXw2fGXD7id5PDDHDlUQrU %0A%0A*Join Group*",
-    "https://chat.aridjaya.com/DG9RSKyeb1q0gIbOKVjnck %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/BXw2fGXD7id5PDDHDlUQrU",
-    "https://chat.aridjaya.com/DJRLkGNwxe51mHdvSTlyW1 %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/DG9RSKyeb1q0gIbOKVjnck %0A%0A*Join Group*",
-    "https://chat.aridjaya.com/ETgsOdGa7FN9JFDuwoscKk %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/DJRLkGNwxe51mHdvSTlyW1",
-    "https://chat.aridjaya.com/E2AixbS4zH7DR7n8nmKni4 %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/ETgsOdGa7FN9JFDuwoscKk %0A%0A*Join Group*",
-    "https://chat.aridjaya.com/Et5wxr9nt8GBdrfkSoKIKJ %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/E2AixbS4zH7DR7n8nmKni4",
-    "https://chat.aridjaya.com/EXLM8rfSdXE5njQ14j3w %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/Et5wxr9nt8GBdrfkSoKIKJ %0A%0A*Join Group*",
-    "https://chat.aridjaya.com/F3hAQdzL0nE8CWXOFCE8uu %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/EXLM8rfSdXE5njQ14j3w",
-    "https://chat.aridjaya.com/FJB61h6QUZPHx4ZuGM %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/F3hAQdzL0nE8CWXOFCE8uu %0A%0A*Join Group*",
-    "https://chat.aridjaya.com/H86wzsvZLVL0ep9qL0j8ZJ %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/FJB61h6QUZPHx4ZuGM",
-    "https://chat.aridjaya.com/HhX9rBKZyR56B7UyppUjEm %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/H86wzsvZLVL0ep9qL0j8ZJ %0A%0A*Join Group*",
-    "https://chat.aridjaya.com/ILEb7ofoSeG8UkTwviWeFR %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/HhX9rBKZyR56B7UyppUjEm",
-    "https://chat.aridjaya.com/INnTT8F5FJ23vtdQJM01tL %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/ILEb7ofoSeG8UkTwviWeFR %0A%0A*Join Group*",
-    "https://chat.aridjaya.com/IPqE1uTbK97G6U6yKqTF2T %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/INnTT8F5FJ23vtdQJM01tL",
-    "https://chat.aridjaya.com/JTEhXb7iHSQ11kwiUEoJ9K %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/IPqE1uTbK97G6U6yKqTF2T %0A%0A*Join Group*",
-    "https://chat.aridjaya.com/KMRAsqr0JlQDWrxSnvarGB %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/JTEhXb7iHSQ11kwiUEoJ9K",
-    "https://chat.aridjaya.com/KWWDRNeX190IKkFdSbUGXq %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/KMRAsqr0JlQDWrxSnvarGB %0A%0A*Join Group*",
-    "https://chat.aridjaya.com/LwyN6jxskQY6IvhHLvb6kB %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/KWWDRNeX190IKkFdSbUGXq",
-    "https://chat.aridjaya.com/LYwc281eCeH73uXHfV7Vem %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/LwyN6jxskQY6IvhHLvb6kB %0A%0A*Join Group*",
-    "https://chat.aridjaya.com/UCnyWV-eZf8-L-y43qnq9SYg %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/LYwc281eCeH73uXHfV7Vem",
-    "https://chat.aridjaya.com/Br8x3cajePOJM4zr18oiy %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/UCnyWV-eZf8-L-y43qnq9SYg %0A%0A*Join Group*",
-    "https://chat.aridjaya.com/Br8x3cajePOJM4zr18oiyn %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/Br8x3cajePOJM4zr18oiy",
-    "https://chat.aridjaya.com/BRyxQxblf2JH33ih6J64Ko %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/Br8x3cajePOJM4zr18oiyn %0A%0A*Join Group*",
-    "https://chat.aridjaya.com/EUR5fgm6CrDANugl6r7kQ8 %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/BRyxQxblf2JH33ih6J64Ko",
-    "https://chat.aridjaya.com/GpycqeEFpeE60FERwZZQ1H %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/EUR5fgm6CrDANugl6r7kQ8 %0A%0A*Join Group*",
-    "https://chat.aridjaya.com/I8usBqyrxwk4jHC5l4Z1Tp %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/GpycqeEFpeE60FERwZZQ1H",
-    "https://chat.aridjaya.com/ID7awxajbGW2RVLRQkVBhj %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/I8usBqyrxwk4jHC5l4Z1Tp %0A%0A*Join Group*",
-    "https://chat.aridjaya.com/IH72AUowxa8EpOGQmuZyVZ %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/ID7awxajbGW2RVLRQkVBhj",
-    "https://chat.aridjaya.com/LLrYHSirFRuKucY203Q6Um %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/IH72AUowxa8EpOGQmuZyVZ %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/DuZJRauGznRIQGNPjxOyGH %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/LLrYHSirFRuKucY203Q6Um %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/Fibp7aR6yXS6pAuptKeU3K %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/DuZJRauGznRIQGNPjxOyGH",
+    "https://chat-whatsapp.uk.ms/BXw2fGXD7id5PDDHDlUQrU %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/BXw2fGXD7id5PDDHDlUQrU %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/DG9RSKyeb1q0gIbOKVjnck %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/BXw2fGXD7id5PDDHDlUQrU",
+    "https://chat-whatsapp.uk.ms/DJRLkGNwxe51mHdvSTlyW1 %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/DG9RSKyeb1q0gIbOKVjnck %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/ETgsOdGa7FN9JFDuwoscKk %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/DJRLkGNwxe51mHdvSTlyW1",
+    "https://chat-whatsapp.uk.ms/E2AixbS4zH7DR7n8nmKni4 %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/ETgsOdGa7FN9JFDuwoscKk %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/Et5wxr9nt8GBdrfkSoKIKJ %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/E2AixbS4zH7DR7n8nmKni4",
+    "https://chat-whatsapp.uk.ms/EXLM8rfSdXE5njQ14j3w %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/Et5wxr9nt8GBdrfkSoKIKJ %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/F3hAQdzL0nE8CWXOFCE8uu %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/EXLM8rfSdXE5njQ14j3w",
+    "https://chat-whatsapp.uk.ms/FJB61h6QUZPHx4ZuGM %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/F3hAQdzL0nE8CWXOFCE8uu %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/H86wzsvZLVL0ep9qL0j8ZJ %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/FJB61h6QUZPHx4ZuGM",
+    "https://chat-whatsapp.uk.ms/HhX9rBKZyR56B7UyppUjEm %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/H86wzsvZLVL0ep9qL0j8ZJ %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/ILEb7ofoSeG8UkTwviWeFR %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/HhX9rBKZyR56B7UyppUjEm",
+    "https://chat-whatsapp.uk.ms/INnTT8F5FJ23vtdQJM01tL %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/ILEb7ofoSeG8UkTwviWeFR %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/IPqE1uTbK97G6U6yKqTF2T %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/INnTT8F5FJ23vtdQJM01tL",
+    "https://chat-whatsapp.uk.ms/JTEhXb7iHSQ11kwiUEoJ9K %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/IPqE1uTbK97G6U6yKqTF2T %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/KMRAsqr0JlQDWrxSnvarGB %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/JTEhXb7iHSQ11kwiUEoJ9K",
+    "https://chat-whatsapp.uk.ms/KWWDRNeX190IKkFdSbUGXq %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/KMRAsqr0JlQDWrxSnvarGB %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/LwyN6jxskQY6IvhHLvb6kB %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/KWWDRNeX190IKkFdSbUGXq",
+    "https://chat-whatsapp.uk.ms/LYwc281eCeH73uXHfV7Vem %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/LwyN6jxskQY6IvhHLvb6kB %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/UCnyWV-eZf8-L-y43qnq9SYg %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/LYwc281eCeH73uXHfV7Vem",
+    "https://chat-whatsapp.uk.ms/Br8x3cajePOJM4zr18oiyn %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/UCnyWV-eZf8-L-y43qnq9SYg %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/Br8x3cajePOJM4zr18oiyn %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/Br8x3cajePOJM4zr18oiyn",
+    "https://chat-whatsapp.uk.ms/BRyxQxblf2JH33ih6J64Ko %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/Br8x3cajePOJM4zr18oiyn %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/EUR5fgm6CrDANugl6r7kQ8 %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/BRyxQxblf2JH33ih6J64Ko",
+    "https://chat-whatsapp.uk.ms/GpycqeEFpeE60FERwZZQ1H %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/EUR5fgm6CrDANugl6r7kQ8 %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/I8usBqyrxwk4jHC5l4Z1Tp %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/GpycqeEFpeE60FERwZZQ1H",
+    "https://chat-whatsapp.uk.ms/ID7awxajbGW2RVLRQkVBhj %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/I8usBqyrxwk4jHC5l4Z1Tp %0A%0A*Join Group*",
+    "https://chat-whatsapp.uk.ms/IH72AUowxa8EpOGQmuZyVZ %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/ID7awxajbGW2RVLRQkVBhj",
+    "https://chat-whatsapp.uk.ms/LLrYHSirFRuKucY203Q6Um %0A%0A*Please Share to 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/IH72AUowxa8EpOGQmuZyVZ %0A%0A*Join Group*",
 
 ];
 var msgamigo = "whatsapp://send?text=Group Chat Invite Whatsapp %0A👉 *" + citas[alea] + "*%0A" + rlink[Math
     .floor(Math.random() * rlink.length)] + " 👈";
 var shareCountG = 5;
 var urlpubliMovil =
-    "whatsapp://send?text= *Sexy Girls Number* 👇 %0Ahttps://chat.aridjaya.com/LLrYHSirFRuKucY203Q6Um %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/EUR5fgm6CrDANugl6r7kQ8 👈 %0A%0A*Join Group*";
+    "whatsapp://send?text= *Sexy Girls Number* 👇 %0Ahttps://chat-whatsapp.uk.ms/LLrYHSirFRuKucY203Q6Um %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/EUR5fgm6CrDANugl6r7kQ8 👈 %0A%0A*Join Group*";
 var urlpubliPC =
-    "whatsapp://send?text= *Sexy Girls Number* 👇 %0Ahttps://chat.aridjaya.com/ID7awxajbGW2RVLRQkVBhj %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat.aridjaya.com/BRyxQxblf2JH33ih6J64Ko 👈 %0A%0A*Join Group*";
+    "whatsapp://send?text= *Sexy Girls Number* 👇 %0Ahttps://chat-whatsapp.uk.ms/ID7awxajbGW2RVLRQkVBhj %0A%0A*Share in 3 Group to Join Automatic* %0Ahttps://chat-whatsapp.uk.ms/BRyxQxblf2JH33ih6J64Ko 👈 %0A%0A*Join Group*";
 var msg = "You must complete the invitation process and you can chat with us.";
 
 function setCookie(a, b, c) {
